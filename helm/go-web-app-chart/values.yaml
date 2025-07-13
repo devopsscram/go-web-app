@@ -8,7 +8,7 @@ image:
   repository: rebelsanj/devops
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "16238420274"
+  tag: "16246956687"
 
 ingress:
   enabled: false
